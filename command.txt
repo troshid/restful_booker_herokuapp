@@ -1,0 +1,1 @@
+newman run restful_booker_herokuapp.postman_collection.json -e IT_T_31.postman_environment.json -r cli,htmlextra
